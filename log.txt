@@ -1,0 +1,13 @@
+commit bb42c84155505b647c3951dc4337200b1c9750aa (HEAD -> logging, 
+origin/master, master)
+Author: DazedGodzilla <nene.muse@gmail.com>
+Date:   Fri Mar 23 13:31:50 2018 +0100
+
+    modify l1.txt
+
+commit 6ed69c55381eb8c2dd873a3e38bf135ccb362f5d
+Author: DazedGodzilla <nene.muse@gmail.com>
+Date:   Fri Mar 23 13:19:53 2018 +0100
+
+    Initial commit
+
